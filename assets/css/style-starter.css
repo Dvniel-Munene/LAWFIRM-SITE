@@ -1,8 +1,4 @@
-<div class="text-right">
-    <a href="services.html" class="btn btn-style btn-primary mt-3" style="background-color: #FFB805; border-color: #FFB805; color: #ffffff; float: left">Services<<<</a>
-</div>
-<br>
-<br>@charset "UTF-8";
+@charset "UTF-8";
 
 :root {
   --blue: #007bff;
@@ -173,7 +169,7 @@ a {
 }
 
 a:hover {
-  color:#FFB805;;
+  color: #ff4d00;
   text-decoration: underline;
 }
 
@@ -4982,7 +4978,7 @@ input[type="button"].btn-block {
 
 .navbar-dark .navbar-nav .nav-link:hover,
 .navbar-dark .navbar-nav .nav-link:focus {
-  color: #FFB805;
+  color: #ff0000;
 }
 
 .navbar-expand-lg a.nav-link.donate.btn.btn-style:hover {
@@ -15715,7 +15711,8 @@ div#small-dialog3 iframe {
   outline: none;
   box-shadow: none;
   transition: 0.3s ease-in-out;
-  color:#FFB805;
+  color: #ff0000;
+}
 
 .owl-theme .owl-nav [class*=owl-]:focus,
 .owl-theme:focus,
@@ -15768,7 +15765,7 @@ button.owl-next {
 
 .owl-theme .owl-dots .owl-dot.active span,
 .owl-theme .owl-dots .owl-dot:hover span {
-  background: #FFB805;
+  background: #ff0000;
 }
 
 /*--/testimonials--*/
@@ -15779,7 +15776,7 @@ button.owl-next {
 }
 
 .owl-testimonial .owl-theme .owl-nav [class*=owl-] {
-  color: #FFB805;
+  color: #fff;
   font-size: 35px;
   margin: 0px;
   width: 50px;
@@ -15796,7 +15793,7 @@ button.owl-next {
 
 .owl-testimonial.owl-carousel.owl-theme .owl-dots .owl-dot.active span,
 .owl-testimonial.owl-carousel.owl-theme .owl-dots .owl-dot:hover span {
-  background-color: #FFB805;
+  background-color: #ff0000;
   opacity: 1;
 }
 
@@ -15824,7 +15821,7 @@ button.owl-next {
 
 .owl-testimonial.owl-carousel.owl-theme .owl-dots .owl-dot.active span,
 .owl-testimonial.owl-carousel.owl-theme .owl-dots .owl-dot:hover span {
-  background: #FFB805;
+  background: #ff0000;
   opacity: 0.8;
 }
 
